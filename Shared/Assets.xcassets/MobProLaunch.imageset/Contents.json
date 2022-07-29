@@ -7,8 +7,8 @@
     {
       "appearances" : [
         {
-          "appearance" : "contrast",
-          "value" : "high"
+          "appearance" : "luminosity",
+          "value" : "dark"
         }
       ],
       "filename" : "MobProLogoTextDM.png",
